@@ -82,7 +82,7 @@ O projeto foi desenvolvido para funcionar corretamente em:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https:https://github.com/Ven900/checkpoint5-front-end.git
 
 # Abra o projeto
 cd seu-repositorio
